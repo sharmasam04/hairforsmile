@@ -1,0 +1,32 @@
+/* Customize */
+.jBox						{ border: 1px solid red; }
+.jBoxDark3					{ border: 3px solid black; box-shadow: 2px 2px 9px black; width:auto !important; } /* press.php */
+a.disabled 					{ pointer-events: none; cursor: default; opacity: 0.3; } /* pageMenu Links */
+.overlay-box				{ position: relative; text-align: center; color: white; }
+.overlay-text				{ position: absolute; top:1em; left:1em; font-weight: bold; background-color: darkslategray; letter-spacing: 3px; padding: 3px; text-indent: 3px; color: white; } /* xx_details Top right text overlay */
+.jtxH1						{ font-size: 1.5rem} /* xx_detials target & raise */
+.bg-leaf					{ background-color: #EEE; }
+
+
+
+
+/* Standard */
+.top-links-container			{ justify-content:flex-end; }
+
+
+
+
+
+/* Medium devices (tablets, 768px and up) */
+@media (min-width: 768px) { 
+	.jtxH1					{ font-size: 1.25rem}
+}
+
+/* Large devices (desktops, 992px and up) */
+@media (min-width: 992px) { }
+
+/* X-Large devices (large desktops, 1200px and up) */
+@media (min-width: 1200px) { }
+
+/* XX-Large devices (larger desktops, 1400px and up) */
+@media (min-width: 1400px) { }

@@ -1,0 +1,24 @@
+
+							>
+											<i class="btn btn-success btn-sm icon-line-arrow-up-circle" onClick="window.open('#','_blank')"></i> 
+
+
+
+
+><i class="btn btn-success btn-sm icon-line-share" onClick="window.open('#','_blank')"></i> 
+
+
+
+<!--
+					<div class="container">
+						<div class="row d-md-flex flex-column flex-md-row">
+							<div class="col jBox">1</div>
+							<div class="col jBox">2</div>
+							<div class="col bg-dark">3</div>
+							<div class="col jBox">4</div>
+							<div class="col bg-dark">5</div>
+						</div>
+					</div>
+-->
+
+Anonymous
